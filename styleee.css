@@ -50,9 +50,6 @@
 	transform: rotateX(-90deg) translateZ(100px) translateY(-100px);
 }
 
-
-
-
 @keyframes yoyo {
 	0%{
 		transform: rotateY(10deg) rotateX(20deg);
@@ -76,9 +73,3 @@
 		transform: rotateY(360deg) rotateX(200deg);;
 	}
 }
-
-
-
-
-
-
