@@ -1,0 +1,37 @@
+div{
+height:100px;
+width:100px;
+
+position: absolute;
+top:20%;
+left:20%;
+background-color: white;
+animation: yoyo 1s ease-in infinite alternate;
+
+
+}
+
+p{
+	animation: uu 1s ease-in infinite alternate;
+	color:black;
+
+transition:color 1s ease-in 0.5s;
+}
+
+@keyframes uu{
+
+	0%{
+		color:black;
+	}
+     
+    50%{
+    	color:white;
+    	
+    }
+
+
+
+
+
+
+}
