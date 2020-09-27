@@ -8,7 +8,7 @@ left:20%;
 background-color: white;
 animation: yoyo 1s ease-in infinite alternate;
 }
-p{
+h1{
 	animation: uu 1s ease-in infinite alternate;
 	color:black;
 
